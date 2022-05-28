@@ -1,0 +1,16 @@
+.sidenav {
+    width: 220px;
+}
+
+.sidenav i {
+    padding-right: 10px;
+}
+
+.content {
+    padding: 16px;
+}
+
+/* This comes from Angular */
+.mat-drawer-container {
+    background-color: transparent;
+}

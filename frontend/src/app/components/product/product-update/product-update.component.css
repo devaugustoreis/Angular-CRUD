@@ -1,0 +1,9 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.div-buttons {
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,15 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    height: 40px;
+    
+    justify-content: center;
+}
+
+.footer > span {
+    font-size: 12px;
+}
+
+.footer .author-name {
+    color: #e51a67;
+}

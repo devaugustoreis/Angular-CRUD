@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background-color: rgb(116, 112, 112);}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.msg-sucess {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.msg-error {
+    background-color: #e51a35;
+    color: #fff;
+}
